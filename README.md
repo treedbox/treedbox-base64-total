@@ -2,7 +2,7 @@
 > Example of a WebPage Total converted in Base64 with all dependencies files.
 
 ## Online Test
-[https://github.com/treedbox/treedbox-base64-total](https://github.com/treedbox/treedbox-base64-total 'Base64Total - Treedox')
+[https://treedbox.github.io/treedbox-base64-total/](https://treedbox.github.io/treedbox-base64-total/ 'Base64Total - Treedox')
 
 ## Base64 with all dependencies files:
 1. First of all, understand your file structure:
